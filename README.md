@@ -1,17 +1,59 @@
-<h1 align="center">Hi 👋, I'm Sherin Vargheese</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sherin-vargheese&label=Profile%20views&color=0e75b6&style=flat" alt="sherin-vargheese" /> </p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=200&section=header&text=Sherin%20Vargheese&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sherin-vargheese" alt="sherin-vargheese" /></a> </p>
+  <h3>Software Engineer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sherinvargheese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sherinvargheese" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sherinvargheese/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sherin vargheese" height="30" width="40" /></a>
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=435&lines=Building+scalable+solutions;Passionate+about+Clean+Code;Cloud+Native+Explorer" alt="Typing SVG" />
+    </a>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/sherinvargheese" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+    <a href="mailto:sherinvargheesekachappilly@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    </a>
+    <a href="https://github.com/Sherin-Vargheese">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 📖 About Me
+I'm a **Software Engineer** dedicated to crafting elegant and scalable solutions. I believe that exceptional software emerges when clean, maintainable code meets an outstanding user experience. Currently, I'm focusing on backend technologies and cloud-native architectures.
+
+---
+
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,kafka,redis,docker,kubernetes,git,github,maven,html,css" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sherin-vargheese&show_icons=true&locale=en&layout=compact" alt="sherin-vargheese" /></p>
+### 🚀 Projects & Experience
+*   **Software Engineer** @ Edstem Technologies (Nov 2024 - Present)
+*   **KeyVault**: Automated API key management & rotation system.
+    *   *Java, Spring Boot, Kafka, Redis, K8s*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sherin-vargheese&show_icons=true&locale=en" alt="sherin-vargheese" /></p>
+---
+
+### 🎓 Education
+*   **Master of Computer Applications - MCA (Computer Science)**
+    *   *De Paul Institute of Science & Technology (DiST)* | `Aug 2023 – Mar 2025`
+    *   *Grade: First Class with Distinction*
+*   **Bachelor of Computer Applications - BCA (Computer Applications)**
+    *   *ILM College of Arts & Science* | `Aug 2020 – Mar 2023`
+    *   *Grade: A Grade*
+
+---
+
+### 🏆 Certifications
+*   [**AWS Certified AI Practitioner**](https://www.credly.com/badges/cd897095-41c4-4b1b-b423-2de5ae10f503/public_url) - Amazon Web Services (AWS)
+*   [**Claude Code in Action**](http://verify.skilljar.com/c/shcgwnzsyi78) - Anthropic
+*   [**Introduction to Databases for Back-End Development**](https://www.coursera.org/account/accomplishments/verify/WESTDFT7Q87E) - Meta
